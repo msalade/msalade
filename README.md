@@ -1,8 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Michał Sałaciak</h1>
+<h1 align="center">Hi 👋, I'm Michał</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salat97" alt="salat97" /> </p>
 
 ## Connect with me:
 
@@ -36,9 +34,10 @@
 <br />
 
 ## :zap: Github Stats
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salat97" alt="salat97" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salat97&layout=compact&hide=html" alt="salat97" /></p>
-<p><img align="left" alt="salat97's Github Stats" src="https://github-readme-stats.salat97.vercel.app/api?username=salat97&show_icons=true&hide_border=true" /></p>
 
+<p><img align="left" alt="salat97's Github Stats" src="https://github-readme-stats.salat97.vercel.app/api?username=salat97&show_icons=true&hide_border=true" /></p>
 
 [linkedin]: https://linkedin.com/in/michal-salaciak
