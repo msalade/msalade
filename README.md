@@ -1,57 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Michał</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=msalade" alt="msalade" /> </p>
 
 <br />
 
-## Connect with me
-[<img align="left" alt="msalade | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+<h2 align="center">Connect with me</h2>
+<p align="center"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px"  alt="msalade | LinkedIn" /> </p>
 
-<br />
-
-## Languages and Tools:
-
-<p>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="dotnet" width="26px" src="https://avatars2.githubusercontent.com/u/9141961?s=200&v=4" />
-<img align="left" alt="c#" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/381/381704.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" />
-<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<img align="left" alt="MobX" width="26px" src="https://raw.githubusercontent.com/mobxjs/mobx/mobx6/docs/assets/mobx.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="ApolloGql" width="26px" src="https://avatars2.githubusercontent.com/u/17189275?s=200&v=4" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<br />
-
-<br />
-
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-
-<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Auth0" width="26px" src="https://avatars3.githubusercontent.com/u/2824157?s=200&v=4" />
-</p>
-
-<br />
-
-
-## Github Stats
-
-
+<h2 align="center">Github Stats</h2>
 <div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalade&layout=compact&hide=html" alt="msalade" /></p>
-  <p><img align="right" alt="msalade's Github Stats" src="https://github-readme-stats.msalade.vercel.app/api?username=msalade&show_icons=true&hide_border=true" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalade&layout=compact&hide=html" alt="msalade" /></p>  
 </div>
-
 
 [linkedin]: https://linkedin.com/in/michal-salaciak
