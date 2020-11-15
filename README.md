@@ -8,8 +8,8 @@
 <p align="center"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px"  alt="msalade | LinkedIn" /> </p>
 
 <h2 align="center">Github Stats</h2>
-<div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalade&layout=compact&hide=html" alt="msalade" /></p>  
-</div>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalade&layout=compact&hide=html" alt="msalade" />
+</p>  
 
 [linkedin]: https://linkedin.com/in/michal-salaciak
